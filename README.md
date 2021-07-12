@@ -18,7 +18,7 @@ Este projeto está sendo desenvolvido com as seguintes tecnologias:
 
 Para iniciar o projeto, clone o repositório, pelo terminal do Git:
 ```bash
-git clone https://github.com/crwa/ipelvis.git
+git clone https://github.com/nicolaspizzoni/Gofinances.git
 
 ```
 
