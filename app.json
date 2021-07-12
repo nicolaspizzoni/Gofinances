@@ -1,0 +1,16 @@
+{
+  "name": "gofinances",
+  "displayName": "gofinances",
+  "expo": {
+    "name": "gofinances",
+    "slug": "gofinances",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "packagerOpts": {
+      "config": "metro.config.js",
+      "sourceExts": ["js", "jsx", "ts", "tsx", "svg"]
+    }
+  }
+}
